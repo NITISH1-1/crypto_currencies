@@ -1,0 +1,27 @@
+{
+  "name": "coins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "./bin/coins.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NITISH1-1/crypto_currencies.git"
+  },
+  "author": "Nitish Rao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NITISH1-1/crypto_currencies/issues"
+  },
+  "homepage": "https://github.com/NITISH1-1/crypto_currencies#readme",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "colors": "^1.4.0",
+    "commander": "^9.0.0",
+    "configstore": "^6.0.0",
+    "inquirer": "^8.2.0"
+  }
+}
